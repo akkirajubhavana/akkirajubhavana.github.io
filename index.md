@@ -9,12 +9,15 @@ permalink: /
 
 <div style="border:1px solid #ddd; border-radius:10px; padding:15px; background-color:#f9f9f9; margin-bottom:20px; font-size:16px; line-height:1.6;">
 
-- 🧱 <strong>Currently building a multilingual dataset</strong> for training a large-scale <strong>speech foundation model</strong>.  
-- 📅 <strong>July 2025</strong> · Our paper <em><strong>"End-to-End Speech Translation for Low-Resource Languages Using Weakly Labeled Data"</strong></em> was <strong>accepted at Interspeech 2025</strong>! 🎉  
-- 📅 <strong>July 2025</strong> · Our <em>Bhojpuri → Hindi Speech-to-Text</em> system was <strong>accepted at IWSLT 2025</strong>. 🏆  
-- 📅 <strong>Jan 2025</strong> · Our paper <em><strong>"Towards Unified Processing of Perso-Arabic Scripts for ASR"</strong></em> was <strong>accepted at AbjadNLP 2025 Workshop</strong>. 📝  
+<ul>
+  <li>🧱 <strong>Currently building a multilingual dataset</strong> for training a large-scale <strong>speech foundation model</strong>.</li>
+  <li>📅 <strong>July 2025</strong> · Our paper <em><strong>"End-to-End Speech Translation for Low-Resource Languages Using Weakly Labeled Data"</strong></em> was <strong>accepted at Interspeech 2025</strong>! 🎉</li>
+  <li>📅 <strong>July 2025</strong> · Our <em>Bhojpuri → Hindi Speech-to-Text</em> system was <strong>accepted at IWSLT 2025</strong>. 🏆</li>
+  <li>📅 <strong>Jan 2025</strong> · Our paper <em><strong>"Towards Unified Processing of Perso-Arabic Scripts for ASR"</strong></em> was <strong>accepted at AbjadNLP 2025 Workshop</strong>. 📝</li>
+</ul>
 
 </div>
+
 
 
 ---
