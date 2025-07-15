@@ -9,7 +9,7 @@ comments: true
 mathjax: true
 author: Bhavana Akkiraju
 ---
-![](https://github.com/akkirajubhavana/akkirajubhavana.github.io/blob/master/assets/img/1.gif)
+![](/assets/img/1.gif)
 
 
 When I embarked on my journey to learn **Automatic Speech Recognition** (ASR) from scratch, I found myself lost in a sea of resources, unsure of where to begin and what topics to cover in order to truly excel in this field. Determined to make sense of it all, I decided to compile all the information I gathered, hoping that it would serve as a guiding light for fellow beginners like myself, helping them navigate the complex world of ASR terminology and essential subjects.
@@ -44,7 +44,7 @@ In more straightforward terms, speech production refers to the process of using 
 * Finally, in the mouth, we use our articulators, such as the lips, tongue, and teeth, to shape the airflow and create different speech sounds.
 * In essence, speech production is how we generate and shape sounds to effectively communicate with others.
 
-![](https://github.com/akkirajubhavana/akkirajubhavana.github.io/blob/master/assets/img/2.png)
+![](/assets/img/2.png)
 
 Imagine you are a singer getting ready to perform on stage. You take a deep breath, filling your lungs with air, like a pump getting ready to release energy. As you start singing, your vocal cords vibrate and create a beautiful melody, much like the strings of a musical instrument. Simultaneously, your vocal tract shapes and refines the sound, allowing you to project your voice with clarity and precision. Through the coordinated efforts of the lungs, vocal cords, and vocal tract, you bring your speech or singing to life, captivating your audience with the power of your voice.
 
@@ -56,12 +56,12 @@ Imagine you are a singer getting ready to perform on stage. You take a deep brea
 
 Picture two different worlds of understanding. In the computer realm, when you start a program, you deal with three key elements: the stuff you put in (input), the powerful brain that does the work (processing unit), and the result you get out (output). Now, in the world of electronics, there’s this captivating idea of systems. They’re like magic makers. They can ask you for information (input), blend it into their world, and create something amazing as if they were wizards with a wand (output).
 
-![](https://github.com/akkirajubhavana/akkirajubhavana.github.io/blob/master/assets/img/3.png)
+![](/assets/img/3.png)
 
 
 Let’s draw a parallel between our way of speaking and the system mentioned. Imagine our voice as a symphony: the initial push from our lungs serves as the opening note—that's our input. The vocal tract, like a dynamic musical instrument, modulates and shapes the sounds over time, just like the system. And finally, the speech or sound that emerges is our grand musical performance, the output.
 
-  ![](https://github.com/akkirajubhavana/akkirajubhavana.github.io/blob/master/assets/img/4.png)
+  ![](/assets/img/4.png)
   
 
 * Vocal Tract: It’s like a shape-shifter during speech, not staying the same.
@@ -70,7 +70,7 @@ Let’s draw a parallel between our way of speaking and the system mentioned. Im
 
 In the world of signals and systems, the output is the product of the input signal and the system’s influence, represented as y(t) = H[x(t)].
 
-![](https://github.com/akkirajubhavana/akkirajubhavana.github.io/blob/master/assets/img/5.png)
+![](/assets/img/5.png)
 
 **y(t) = H[x(t)]**
 
