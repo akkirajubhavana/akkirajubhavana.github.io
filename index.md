@@ -1,24 +1,19 @@
 ---
 layout: page
-title: "Home"
+title: "👋🏼 Bhavana Akkiraju"
+subtitle: "Ph.D. Researcher • Indian-Language ASR • Speech Tech for Good_"
 permalink: /
 ---
 
-<div align="center">
-
-# 👋🏼 Bhavana Akkiraju  
-_Ph.D. Researcher • Indian-Language ASR • Speech Tech for Good_
-
-</div>
-
----
 
 ## 🆕 Latest Update
 
 <div style="border:1px solid #ddd; border-radius:10px; padding:15px; background-color:#f9f9f9; margin-bottom:20px;">
 
-**July 2025** · Our _Bhojpuri → Hindi Speech-to-Text_ system was accepted at **IWSLT 2025**! 🎉  
-I’m finalizing multilingual KenLM decoding experiments — stay tuned for results.
+- 🧱 Currently working on creating the dataset for **speech foundation model** .  
+- 📅 **July 2025** · Our paper _**"End-to-End Speech Translation for Low-Resource Languages Using Weakly Labeled Data"**_ got **accepted at Interspeech 2025**! 🎉  
+- 📅 **July 2025** · Our _Bhojpuri → Hindi Speech-to-Text_ system was **accepted at IWSLT 2025**.  
+- 📅 **Jan 2025** · Our paper _**"Towards Unified Processing of Perso-Arabic Scripts for ASR"**_ got **accepted at AbjadNLP 2025 Workshop**.
 
 </div>
 
@@ -26,35 +21,42 @@ I’m finalizing multilingual KenLM decoding experiments — stay tuned for resu
 
 ## 🎯 Mission
 
-> _To create foundation-level ASR & SLT models for_ **_Indian languages_**, _bridging dialect diversity and data scarcity._
+> _To build **multimodal speech foundation models** tailored for **Indian languages**, tackling data scarcity and reducing reliance on task-specific systems._
+
+> _To advance research in **Automatic Speech Recognition (ASR)** and **Spoken Language Translation (SLT)** across diverse, low-resource languages._
+
+> _To explore the integration of **Generative AI (GenAI)** with speech technologies for more adaptive and generalizable systems._
+
 
 ---
-
 ## 🔬 Current Research Directions
 
-- 🔤 **Multilingual & Low-Resource ASR**  
-- 🧠 **Speech Foundation Models** (Indian languages)  
-- 🗣️ **Few-shot Prompt-based Recognition** (SeamlessM4T, Whisper)  
-- 🧬 **Speech Disorders via IMF, HHT**  
-- 🏥 **Medical Domain Speech Understanding**
+- 🧠 Speech Foundation Models: Designing large-scale models for Indian languages across ASR, SLT, and downstream tasks.
+- 🗣️ Few-shot & Prompt-based Speech Recognition: Leveraging models like SeamlessM4T and Whisper for low-resource and adaptive ASR.
+- 🌍 Spoken Language Translation (SLT): Enabling end-to-end translation from speech in one language to text in another.
+- 🔤 Multilingual & Low-Resource ASR: Developing robust models for underrepresented Indian languages using cross-lingual transfer.   
+- 🧬 Speech Disorder Analysis via IMF & HHT: Applying signal decomposition methods to analyze and differentiate disordered speech.
 
 ---
 
-## 🧩 Featured Projects
+## 🔬 What I’m Working On
 
-| 🧪 Project | 🌍 Focus | 🧭 Status |
-|-----------|----------|----------|
-| **Telugu Speech Pretraining** | ASR Foundation Models | 🟢 Active |
-| **Bhojpuri → Hindi SLT** | IWSLT 2025 System | ✅ Accepted |
-| **Dysarthric Speech Clustering** | Signal Decomposition | 🧪 Experimental |
+| 🧩 Project | 🌐 Description | 🚦 Status |
+|-----------|----------------|----------|
+| **Telugu Speech Foundation Model** | Curating & synthesizing speech corpora for pretraining | ⚙️ Research-stage |
+| **Bhojpuri → Hindi Speech Translation** | Few-shot prompting using SeamlessM4T | ✅ Accepted at IWSLT 2025 |
+| **Data Creation Pipeline for Perso-Arabic Languages** | Scalable pipeline for building ASR datasets using cross-lingual alignment, G2P, and lexicon induction methods. | ✅ Accepted at AbjadNLP Workshop 2025 |
+| **Dysarthric Speech Analysis** | IMF decomposition + clustering for disorder detection | 📘 Course project completed |
 
 ---
+
 
 ## 📫 Contact Me
 
 Feel free to reach out:  
 📧 [bhavana.akkiraju@research.iiit.ac.in](mailto:bhavana.akkiraju@research.iiit.ac.in)  
-🌐 [GitHub](https://github.com/akkirajubhavana) · [LinkedIn](https://www.linkedin.com/in/bhavanaakkiraju)
+🌐 [GitHub](https://github.com/akkirajubhavana) · 
+[LinkedIn](https://www.linkedin.com/in/bhavanaakkiraju)
 
 ---
 
