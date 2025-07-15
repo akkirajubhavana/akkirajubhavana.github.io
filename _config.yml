@@ -24,7 +24,8 @@ navbar-links:            # goes to index.md
   About Me: "about"           # /about.html   (create about.md)
   CV: "assets/BhavanaAkkiraju_CV.pdf"
   Publications: "publications"
-  Blog: "posts"            # feed page generated automatically
+  Blog: 
+    - ASR_Blog : "_posts/Unlocking_the_Power_of_ASR.md" # feed page generated automatically
 
 
 ################
@@ -53,8 +54,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "bhavana.akkiraju@research.iiit.ac.in"
-  github: "https://github.com/akkirajubhavana"
-  linkedin: "https://www.linkedin.com/in/bhavanaakkiraju/"
+  github: "akkirajubhavana"
+  linkedin: "bhavanaakkiraju"
   google-scholar: "TRGOdHkAAAAJ"   # e.g. "c7rV‑kQAAAAJ"
   # twitter: "bhavana_ai"               # or remove if not used
   rss: true
