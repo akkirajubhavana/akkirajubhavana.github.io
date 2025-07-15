@@ -20,9 +20,8 @@ author: "Bhavana Akkiraju"
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  Home: ""                 # goes to index.md
-  About: "about"           # /about.html   (create about.md)
+navbar-links:            # goes to index.md
+  About Me: "about"           # /about.html   (create about.md)
   CV: "assets/BhavanaAkkiraju_CV.pdf"
   Publications: "publications"
   Blog: "posts"            # feed page generated automatically
