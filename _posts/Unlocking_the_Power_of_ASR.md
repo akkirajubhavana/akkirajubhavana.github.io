@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Transcribing Talk: Exploring the World of Automatic Speech Recognition
+title: "Transcribing Talk: Exploring the World of Automatic Speech Recognition"
 subtitle: Introduction to ASR!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [asr]
 comments: true
 mathjax: true
 author: Bhavana Akkiraju
