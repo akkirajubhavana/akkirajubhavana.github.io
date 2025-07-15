@@ -10,32 +10,35 @@
 ############################
 
 # Name of website
-title: My website
+title: "Bhavana Akkiraju"
+
 
 # Your name to show in the footer
-author: Some Person
+author: "Bhavana Akkiraju"
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: ""                 # goes to index.md
+  About: "about"           # /about.html   (create about.md)
+  CV: "assets/BhavanaAkkiraju_CV.pdf"
+  Publications: "publications"
+  Blog: "posts"            # feed page generated automatically
+
 
 ################
 # --- Logo --- #
 ################
-
+avatar: "/assets/img/profile.jpg"  # add your headshot here
+round-avatar: true
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -50,14 +53,12 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "bhavana.akkiraju@research.iiit.ac.in"
+  github: "https://github.com/akkirajubhavana"
+  linkedin: "https://www.linkedin.com/in/bhavanaakkiraju/"
+  google-scholar: "TRGOdHkAAAAJ"   # e.g. "c7rV‑kQAAAAJ"
+  # twitter: "bhavana_ai"               # or remove if not used
+  rss: true
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -92,43 +93,21 @@ rss-description: This website is a virtual proof that I'm awesome
 # --- General options --- #
 ###########################
 
-# Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
-  vk: false
   reddit: false
+  vk: false
 
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
-
-# Add the website title to the title of every page
+url-pretty: "bhavanaakkiraju.github.io"
 title-on-all-pages: true
-
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
-
-# Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
-
-# Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
-
-# Add a search button to the navbar
 post_search: true
-
-# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
-
-# Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
-# If this setting is off, then long sub-menu words might get cut off
-# See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
-
-# The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+navbar-var-length: true
 
 ######################################
 # --- Colours / background image --- #
@@ -136,17 +115,18 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+page-col: "#ffffff"
+text-col: "#3e3e3e"
+link-col: "#0066cc"
+hover-col: "#004c99"
+navbar-col: "#f7f7f7"
+navbar-text-col: "#3e3e3e"
+navbar-border-col: "#e0e0e0"
+footer-col: "#f7f7f7"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-link-col: "#3e3e3e"
+footer-hover-col: "#0066cc"
+
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -250,7 +230,9 @@ footer-hover-col: "#0085A1"
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+
+date_format: "%B %-d, %Y"
+timezone: "Asia/Kolkata"
 
 # Facebook App ID
 #fb_app_id: ""
