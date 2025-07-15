@@ -2,7 +2,6 @@
 layout: page
 title: "Home"
 permalink: /
-header-img: /assets/img/download.jpeg
 ---
 
 <div align="center">
