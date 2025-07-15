@@ -24,7 +24,7 @@ navbar-links:            # goes to index.md
   About Me: "about"           # /about.html   (create about.md)
   CV: "assets/BhavanaAkkiraju_CV.pdf"
   Publications: "publications"
-  Blog: "_posts"            # feed page generated automatically
+  Blog: "posts"            # feed page generated automatically
 
 
 ################
