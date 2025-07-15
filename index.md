@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "👋🏼 Bhavana Akkiraju"
-subtitle: "Ph.D. Researcher • Indian-Language ASR • Speech Tech for Good_"
+subtitle: >
+  Ph.D. Scholar · Empowering Voices Through Speech Tech  
+  Indian Languages · Foundation Models · GenAI
+
 permalink: /
 ---
 
