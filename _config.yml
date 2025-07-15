@@ -25,7 +25,7 @@ navbar-links:            # goes to index.md
   CV: "assets/BhavanaAkkiraju_CV.pdf"
   Publications: "publications"
   Blog: 
-    - ASR_Blog : "_posts/Unlocking_the_Power_of_ASR.md" # feed page generated automatically
+    - ASR_Blog : "_posts/Unlocking_the_Power_of_ASR" # feed page generated automatically
 
 
 ################
