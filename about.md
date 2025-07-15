@@ -13,32 +13,44 @@ Hi! I'm **Bhavana Akkiraju**, a Ph.D. scholar in the **Speech Processing Laborat
 <details>
 <summary><strong>🔬 Research Focus</strong></summary><br>
 
-- 🧠 **Speech Foundation Models** for Indian languages  
-- 🌐 **Multilingual & Low-Resource ASR**  
-- ✨ **Prompt-based / Few-shot ASR**  
-- 🎙️ **Generative AI for Speech** (Whisper, SeamlessM4T)  
-- 🧬 **Domain Adaptation** for medical & assistive technologies  
+<ul>
+  <li>🧠 <strong>Speech Foundation Models</strong> for Indian languages</li>
+  <li>🌐 <strong>Multilingual & Low-Resource ASR</strong></li>
+  <li>✨ <strong>Prompt-based / Few-shot ASR</strong></li>
+  <li>🎙️ <strong>Generative AI for Speech</strong> (Whisper, SeamlessM4T)</li>
+  <li>🧬 <strong>Domain Adaptation</strong> for medical & assistive technologies</li>
+</ul>
 
 </details>
 
 <details>
 <summary><strong>💼 Professional Journey</strong></summary><br>
 
-- **Senior Software Engineer** at Capgemini & Brillio (3+ years)  
-  — Built scalable AI/ML solutions for enterprise clients  
-- **M.Tech, Embedded Systems** (ECE, 2018–2022)  
-  — Focused on real-time processing & edge AI systems  
+<ul>
+  <li><strong>Senior Software Engineer</strong> at Capgemini & Brillio (3+ years)<br>
+  — Built scalable AI/ML solutions for enterprise clients</li>
+  <li><strong>M.Tech, Embedded Systems</strong> (ECE, 2018–2022)<br>
+  — Focused on real-time processing & edge AI systems</li>
+</ul>
 
 </details>
 
 <details>
 <summary><strong>🎯 Vision</strong></summary><br>
 
-To build inclusive **Speech Foundation Models** covering **ASR**, **SLT**, and **cross-lingual transfer** for India’s rich linguistic landscape — enabling impactful applications in **healthcare**, **education**, and **public services**.
+<ul>
+  <li>
+    To build inclusive <strong>Speech Foundation Models</strong> covering <strong>ASR</strong>, <strong>SLT</strong>, and <strong>cross-lingual transfer</strong> for India’s rich linguistic landscape.
+  </li>
+  <li>
+    Enable impactful applications in <strong>healthcare</strong>, <strong>education</strong>, and <strong>public services</strong>.
+  </li>
+</ul>
 
 </details>
 
 ---
+
 
 ## 🗺️ Timeline
 
