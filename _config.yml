@@ -24,7 +24,7 @@ navbar-links:            # goes to index.md
   About Me: "about"           # /about.html   (create about.md)
   CV: "assets/BhavanaAkkiraju_CV.pdf"
   Publications: "publications"
-  Blog: "posts"            # feed page generated automatically
+  Blog: "_posts"            # feed page generated automatically
 
 
 ################
@@ -99,7 +99,7 @@ share-links-active:
   reddit: false
   vk: false
 
-url-pretty: "bhavanaakkiraju.github.io"
+url-pretty: "akkirajubhavana.github.io"
 title-on-all-pages: true
 excerpt_length: 50
 feed_show_excerpt: true
